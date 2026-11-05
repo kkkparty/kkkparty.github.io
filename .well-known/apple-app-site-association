@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["Z257YW44UF.com.aibert.miaoxin"],
+        "paths": ["/miaoxin", "/miaoxin/", "/miaoxin/*"]
+      }
+    ]
+  }
+}
